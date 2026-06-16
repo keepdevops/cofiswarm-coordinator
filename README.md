@@ -1,3 +1,6 @@
+
+> **ARCHIVED** — see [ARCHIVED.md](./ARCHIVED.md)
+
 # cofiswarm-coordinator
 
 Cofiswarm component: `coordinator`.
