@@ -8,3 +8,9 @@ test/standalone/run/**/*
 !test/standalone/run/**/.gitkeep
 .env
 *.log
+
+build/
+bin/
+*.o
+*.a
+cpp_core/src/a.out.txt
